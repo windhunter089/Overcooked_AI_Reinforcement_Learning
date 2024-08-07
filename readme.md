@@ -3,7 +3,7 @@
 
 Each layout has its own Jupyter notebook. Will require installation of Overcooked AI (see notebook for detail)
 
-!pip install git+https://github.com/HumanCompatibleAI/overcooked_ai.git
+"!pip install git+https://github.com/HumanCompatibleAI/overcooked_ai.git"
 
 ![Description](/figure/overcooked_ai.gif)
 
